@@ -1,0 +1,13 @@
+store_id,city,city_display,city_tier,store_size,sqft,opened_year,baseline_daily_orders
+ST01,Mumbai,Mumbai,Tier1,Large,2946,2023,580
+ST02,Mumbai,Mumbai,Tier1,Small,1482,2024,235
+ST03,Bengaluru,BENGALURU,Tier1,Large,3650,2022,552
+ST04,Bengaluru,Bengaluru,Tier1,Large,4198,2025,524
+ST05,Delhi,Delhi,Tier1,Medium,2220,2022,343
+ST06,Delhi,Delhi,Tier1,Large,4088,2023,462
+ST07,Pune,Pune,Tier1,Medium,2661,2025,289
+ST08,Pune,Pune,Tier1,Small,1126,2023,242
+ST09,Hyderabad,hyderabad,Tier1,Small,1445,2024,239
+ST10,Hyderabad,Hyderabad,Tier1,Medium,1599,2025,415
+ST11,Chennai,Chennai,Tier1,Small,1280,2022,217
+ST12,Chennai,Chennai,Tier1,Medium,1708,2025,311

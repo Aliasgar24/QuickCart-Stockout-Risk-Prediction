@@ -1,0 +1,16 @@
+supplier_id,supplier_name,categories_supplied,reliability_score,base_lead_time_days,lead_time_variance_days
+SUP01,Fresh Farms Co,Fruits & Vegetables,0.92,5,0.8
+SUP02,Green Valley Distributors,Snacks,0.93,3,0.8
+SUP03,Metro Dairy Supplies,Snacks,0.9,2,1.7
+SUP04,Sunrise Agro Traders,"Beverages, Dairy",0.7,1,0.7
+SUP05,National Snacks Ltd,Home Care,0.66,2,2.2
+SUP06,QuickBev Distributors,"Personal Care, Home Care",N/A,1,2.2
+SUP07,CarePlus Wholesale,Home Care,0.67,3,2.8
+SUP08,HomeShine Supplies,Fruits & Vegetables,0.73,2,1.6
+SUP09,Golden Grain Traders,"Personal Care, Snacks",0.72,5,0.4
+SUP10,Daily Bakes Supply,"Bakery, Personal Care",0.66,4,0.7
+SUP11,Coastal Foods Pvt Ltd,"Snacks, Fruits & Vegetables",0.83,1,2.5
+SUP12,Bharat Staples Co,"Beverages, Bakery",0.63,4,0.6
+SUP13,Urban FMCG Distributors,Staples,0.91,3,1.7
+SUP14,Prime Personal Care,Staples,N/A,4,1.9
+SUP15,Regional Produce Hub,Beverages,N/A,5,2.1

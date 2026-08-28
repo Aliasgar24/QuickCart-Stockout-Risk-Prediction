@@ -1,0 +1,31 @@
+date,event_name,event_type,demand_multiplier_festive,demand_multiplier_other
+2026-10-01,Regular Day,none,1.0,1.0
+2026-10-02,Regular Day,none,1.0,1.0
+2026-10-03,Regular Day,none,1.0,1.0
+2026-10-04,Regular Day,none,1.0,1.0
+2026-10-05,Regular Day,none,1.0,1.0
+2026-10-06,Regular Day,none,1.0,1.0
+2026-10-07,Regular Day,none,1.0,1.0
+2026-10-08,Regular Day,none,1.0,1.0
+2026-10-09,Regular Day,none,1.0,1.0
+2026-10-10,Regular Day,none,1.0,1.0
+2026-10-11,Weekend Flash Sale,promo,1.3,1.3
+2026-10-12,Regular Day,none,1.0,1.0
+2026-10-13,Regular Day,none,1.0,1.0
+2026-10-14,Regular Day,none,1.0,1.0
+2026-10-15,Regular Day,none,1.0,1.0
+2026-10-16,Regular Day,none,1.0,1.0
+2026-10-17,Regular Day,none,1.0,1.0
+2026-10-18,Regular Day,none,1.0,1.0
+2026-10-19,Regular Day,none,1.0,1.0
+2026-10-20,Regular Day,none,1.0,1.0
+2026-10-21,Regular Day,none,1.0,1.0
+2026-10-22,Diwali Week,festival,1.4,1.1
+2026-10-23,Diwali Week,festival,1.7,1.175
+2026-10-24,Diwali Week,festival,2.1,1.275
+2026-10-25,Diwali Week,festival,2.6,1.4
+2026-10-26,Diwali Week,festival,1.9,1.225
+2026-10-27,Regular Day,none,1.0,1.0
+2026-10-28,Regular Day,none,1.0,1.0
+2026-10-29,Regular Day,none,1.0,1.0
+2026-10-30,Regular Day,none,1.0,1.0

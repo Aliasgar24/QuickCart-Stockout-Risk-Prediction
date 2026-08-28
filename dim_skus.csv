@@ -1,0 +1,61 @@
+sku_id,sku_name,category,unit_price_inr,shelf_life_days,is_perishable,festive_relevant,popularity_tier,supplier_id
+SKU001,Banana 1kg,Fruits & Vegetables,132.04,2,Y,N,Low,SUP11
+SKU002,Tomato 1kg,Fruits & Vegetables,148.76,3,Y,N,Medium,SUP08
+SKU003,Onion 1kg,Fruits & Vegetables,66.13,3,Y,N,High,SUP01
+SKU004,Potato 1kg,Fruits & Vegetables,51.99,5,Y,N,High,SUP01
+SKU005,Apple 1kg,Fruits & Vegetables,145.91,5,Y,N,Medium,SUP08
+SKU006,Spinach 250g,Fruits & Vegetables,144.92,5,Y,N,Medium,SUP01
+SKU007,Cucumber 500g,Fruits & Vegetables,111.0,2,Y,N,High,SUP08
+SKU008,Carrot 500g,Fruits & Vegetables,126.94,2,Y,N,Medium,SUP11
+SKU009,Capsicum 500g,Fruits & Vegetables,110.44,2,Y,N,Medium,SUP08
+SKU010,Toned Milk 1L,Dairy,149.56,8,Y,N,Medium,SUP04
+SKU011,Curd 400g,Dairy,93.39,7,Y,N,Medium,SUP04
+SKU012,Paneer 200g,Dairy,73.28,3,Y,N,Medium,SUP04
+SKU013,Butter 100g,Dairy,217.02,3,Y,N,High,SUP04
+SKU014,Cheese Slices 200g,Dairy,88.31,4,Y,N,High,SUP04
+SKU015,Ghee 500ml,Dairy,173.93,3,Y,N,Low,SUP04
+SKU016,Buttermilk 1L,Dairy,174.47,6,Y,N,Medium,SUP04
+SKU017,Potato Chips 90g,Snacks,125.82,98,N,Y,High,SUP02
+SKU018,Namkeen Mix 200g,Snacks,31.71,80,N,Y,Medium,SUP09
+SKU019,Choco Cookies 150g,Snacks,80.04,146,N,Y,Medium,SUP02
+SKU020,Salted Peanuts 200g,Snacks,39.8,79,N,Y,Medium,SUP02
+SKU021,Banana Chips 150g,Snacks,78.0,79,N,Y,Medium,SUP11
+SKU022,Murukku 200g,Snacks,101.94,105,N,Y,Medium,SUP02
+SKU023,Popcorn 70g,Snacks,31.39,101,N,Y,Low,SUP09
+SKU024,Nachos 100g,Snacks,138.12,74,N,Y,Medium,SUP02
+SKU025,Rusk 200g,Snacks,54.56,151,N,Y,Low,SUP11
+SKU026,Cola 750ml,Beverages,161.96,356,N,Y,Medium,SUP04
+SKU027,Orange Juice 1L,Beverages,70.81,111,N,Y,Low,SUP04
+SKU028,Mineral Water 1L,Beverages,108.43,116,N,Y,High,SUP04
+SKU029,Energy Drink 250ml,Beverages,77.72,312,N,Y,High,SUP12
+SKU030,Instant Coffee 100g,Beverages,190.61,249,N,Y,Low,SUP15
+SKU031,Green Tea 25 bags,Beverages,162.49,272,N,Y,Medium,SUP04
+SKU032,Lassi 200ml,Beverages,134.74,208,N,Y,Medium,SUP15
+SKU033,Lemon Soda 300ml,Beverages,32.31,298,N,Y,High,SUP04
+SKU034,Shampoo 340ml,Personal Care,242.54,516,N,N,Medium,SUP06
+SKU035,Toothpaste 150g,Personal Care,99.25,612,N,N,Medium,SUP06
+SKU036,Bar Soap 125g,Personal Care,109.94,402,N,N,Low,SUP06
+SKU037,Face Wash 100ml,Personal Care,278.24,528,N,N,Medium,SUP06
+SKU038,Hand Sanitizer 200ml,Personal Care,49.35,491,N,N,Low,SUP09
+SKU039,Deodorant Spray,Personal Care,237.74,535,N,N,High,SUP10
+SKU040,Razor Pack,Personal Care,239.53,650,N,N,Medium,SUP06
+SKU041,Dish Wash Liquid 500ml,Home Care,358.55,423,N,N,Medium,SUP06
+SKU042,Floor Cleaner 1L,Home Care,127.11,573,N,N,Medium,SUP07
+SKU043,Laundry Detergent 1kg,Home Care,214.63,675,N,N,High,SUP06
+SKU044,Toilet Cleaner 500ml,Home Care,320.07,525,N,N,Low,SUP07
+SKU045,Air Freshener,Home Care,83.39,475,N,N,High,SUP06
+SKU046,Garbage Bags 30pc,Home Care,266.92,567,N,N,High,SUP07
+SKU047,Basmati Rice 5kg,Staples,221.23,290,N,N,Low,SUP13
+SKU048,Wheat Flour 5kg,Staples,61.24,289,N,N,Low,SUP14
+SKU049,Toor Dal 1kg,Staples,96.76,155,N,N,Medium,SUP13
+SKU050,Sugar 1kg,Staples,137.57,100,N,N,Low,SUP13
+SKU051,Cooking Oil 1L,Staples,264.39,354,N,N,Low,SUP14
+SKU052,Salt 1kg,Staples,114.37,177,N,N,Medium,SUP14
+SKU053,Besan 1kg,Staples,104.23,362,N,N,High,SUP14
+SKU054,Poha 500g,Staples,43.02,347,N,N,Medium,SUP13
+SKU055,White Bread 400g,Bakery,119.28,1,Y,Y,Medium,SUP12
+SKU056,Brown Bread 400g,Bakery,109.63,4,Y,Y,Low,SUP12
+SKU057,Milk Bun Pack,Bakery,74.29,2,Y,Y,Low,SUP12
+SKU058,Cup Cakes 4pc,Bakery,87.86,2,Y,Y,Medium,SUP12
+SKU059,Rusk Toast 200g,Bakery,33.97,3,Y,Y,High,SUP12
+SKU060,Croissant 2pc,Bakery,114.0,3,Y,Y,High,SUP10
